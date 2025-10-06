@@ -29,6 +29,9 @@ Un simulador interactivo de un agente reflejo simple implementado en Python con 
 ![Simulación Activa](img/image3.png)
 *Agente en acción con panel de información detallado*
 
+## Demo del Agente
+![Demo del agente en acción](img/demo.gif)
+
 ### Panel de Información
 ![Panel de Información](img/image4.png)
 *Vista detallada del panel lateral con flechas direccionales*
