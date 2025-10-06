@@ -53,7 +53,7 @@ agente-reflejo-simple/
 ├── README.md                 # Este archivo
 ├── tablas/                   # Carpeta con tablas de reglas
 │   ├── percepcion-accion.csv     # Tabla de reglas original
-│   └── percepcion-accion2.csv    # Tabla de reglas mejorada (anti-bucles)
+│   └── percepcion-accion2.csv    # Tabla de reglas alternativa
 └── salida/                   # Carpeta de archivos CSV generados
     └── salida-YYYYMMDD-HHMMSS.csv
 ```
@@ -359,3 +359,17 @@ DENSITY = 0.3              # Densidad de obstáculos
 ```
 
 ---
+
+## 📝 Nota de Desarrollo
+
+Este proyecto fue desarrollado con el apoyo de **Inteligencia Artificial** mediante prompts, combinando conocimientos previos sobre **agentes inteligentes** y documentación académica en el área. El simulador está actualmente en **fase de mejora continua**, incorporando nuevas funcionalidades y optimizaciones basadas en feedback y análisis de comportamiento.
+
+### Metodología de Desarrollo:
+- 🤖 **Asistencia de IA**: Desarrollo guiado por prompts especializados
+- 📚 **Base Teórica**: Aplicación de conceptos de agentes inteligentes
+- 🔄 **Iterativo**: Mejoras continuas basadas en pruebas y análisis
+- 📖 **Documentado**: Referencias académicas y estudios previos
+
+---
+
+**Desarrollado usando Python y Pygame**
